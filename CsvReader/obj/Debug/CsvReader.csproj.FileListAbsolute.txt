@@ -1,5 +1,0 @@
-I:\Desktop\CsvReader\CsvReader\bin\Debug\CsvReader.dll
-I:\Desktop\CsvReader\CsvReader\bin\Debug\CsvReader.pdb
-I:\Desktop\CsvReader\CsvReader\obj\Debug\CsvReader.dll
-I:\Desktop\CsvReader\CsvReader\obj\Debug\CsvReader.pdb
-I:\Desktop\CsvReader\CsvReader\obj\Debug\CsvReader.csprojResolveAssemblyReference.cache
